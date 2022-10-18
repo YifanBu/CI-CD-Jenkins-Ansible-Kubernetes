@@ -56,3 +56,6 @@
 6. CI Job to create Image for Kubernetes
 7. Enable rolling update to create pod from latest docker image
 8. Complete CI and CD job to build and deploy code on Kubernetes
+
+## Acknowledge
+The content is created by following AR Shankar's Course: DevOps Project - 2022: CI/CD with Jenkins Ansible Kubernetes
