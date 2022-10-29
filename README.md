@@ -1,3 +1,5 @@
+# CI/CD with Jenkins, Ansible, Docker and Kubernetes
+![CICD with Jenkins Ansible Kubernetes](https://user-images.githubusercontent.com/31915035/198856045-4c499920-43b1-4476-9d33-117f665be2e9.png)
 ## Set up CI/CD pipeline using Git, Jenkins and Maven
 
 1. Set up Jenkins Server & Run 1st Jenkins Job
